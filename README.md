@@ -1,7 +1,8 @@
 # mypkg
+![test](https://github.com/reofujimoto/mypkg/actions/workflows/test.yml/badge.svg)
 
-
-ロボットシステム学2023のROS2講義用リポジトリ
+ロボットシステム学2023の練習リポジトリ
+授業で作成したプログラム
 
 ## このリポジトリで使用可能なノード
 * talker
