@@ -1,3 +1,7 @@
+#SPDX-FileCopyrightText: 2023 Reo Fujimoto
+#SPDX-License-Indentifier: BSD-3-Clause
+
+
 import launch
 import launch.actions
 import launch.substitutions
