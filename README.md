@@ -12,9 +12,8 @@
   * `talker.py`から`countup`というトピック名でトピック通信し、メッセージを貰って表示するノード。  これを実行するには、新しいターミナルを開いて実行。  
 
 ## launch
-* 機能
-
-`talker.py`と`listener.py`の２つのノードを同時に実行できるノード。
+* talk_listen.launch.py
+  * `talker.py`と`listener.py`の２つのノードを同時に実行可能とし表示させる。
 
 * 実行例
 
