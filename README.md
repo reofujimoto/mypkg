@@ -20,10 +20,22 @@
 
 ```bash
 $ ros2 launch mypkg talk_listen.launch.py
-
-
+[INFO] [launch]: All log files can be found below /home/reo/.ros/log/2023-12-26-16-30-48-665078-DESKTOP-V4N2IEO-2454
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [talker-1]: process started with pid [2455]
+[INFO] [listener-2]: process started with pid [2457]
+[listener-2] [INFO] [1703575849.635908220] [listener]: Listen: 0
+[listener-2] [INFO] [1703575850.115017370] [listener]: Listen: 1
+[listener-2] [INFO] [1703575850.615238309] [listener]: Listen: 2
+[listener-2] [INFO] [1703575851.115211547] [listener]: Listen: 3
+[listener-2] [INFO] [1703575851.617064785] [listener]: Listen: 4
+[listener-2] [INFO] [1703575852.117637124] [listener]: Listen: 5
+[listener-2] [INFO] [1703575852.617066063] [listener]: Listen: 6
+[listener-2] [INFO] [1703575853.117288801] [listener]: Listen: 7
+[listener-2] [INFO] [1703575853.617367940] [listener]: Listen: 8
+[listener-2] [INFO] [1703575854.117196479] [listener]: Listen: 9
+[listener-2] [INFO] [1703575854.617290738] [listener]: Listen: 10
 ```
-
 
 ## 動作環境
 ### 必要なソフトウェア　
