@@ -48,7 +48,10 @@ $ ros2 launch mypkg talk_listen.launch.py
 ## 著作権・ライセンス
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
   
-* このパッケージのコードは，下記のGitHub上のコードを参照し，本人の許可を得て自身の著作としたものです． 
-  * [ryuichiueda/mypkg](https://github.com/ryuichiueda/mypkg)
+* このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）を，本人の許可を得て自身の著作としたものです． 
+  * https://github.com/ryuichiueda/my_slides/blob/master/robosys_2022/lesson8.md
+  * https://github.com/ryuichiueda/my_slides/blob/master/robosys_2022/lesson9.md
+  * https://github.com/ryuichiueda/my_slides/blob/master/robosys_2022/lesson10.md
+  * https://github.com/ryuichiueda/my_slides/blob/master/robosys_2022/lesson11.md
 
 * © 2023 Reo Fujimoto
